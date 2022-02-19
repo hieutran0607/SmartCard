@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LogIn.qml</file>
+        <file>QuanLy.qml</file>
+        <file>NhatKy.qml</file>
+        <file>HangDoi.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>CButton.qml</file>
+        <file>Them.qml</file>
+        <file>Sua.qml</file>
+        <file>Xoa.qml</file>
+        <file>QuanLyChung.qml</file>
+        <file>SerialPort.qml</file>
+        <file>img/bg_elec.jpg</file>
+        <file>img/circle.png</file>
+    </qresource>
+</RCC>
